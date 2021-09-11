@@ -1,2 +1,2 @@
 # data_science_excercises
-towards data science notebooks
+personal excercises to put in practice some good stuff
